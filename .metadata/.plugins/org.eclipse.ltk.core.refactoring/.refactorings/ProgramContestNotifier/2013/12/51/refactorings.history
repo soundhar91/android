@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.example.programcontestnotifier.adge&apos; to &apos;Badge&apos;&#x0A;- Original project: &apos;ProgramContestNotifier&apos;&#x0A;- Original element: &apos;com.example.programcontestnotifier.adge&apos;&#x0A;- Renamed element: &apos;com.example.programcontestnotifier.Badge&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;adge&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.example.programcontestnotifier{adge.java[adge" matchStrategy="1" name="Badge" qualified="false" references="true" similarDeclarations="false" stamp="1387276716261" textual="false" version="1.0"/>
+</session>
